@@ -1,0 +1,26 @@
+We call a sequence of N natural numbers (a1, a2, …, aN) a P-sequence, if the product of any two adjacent numbers in it is not greater than P. In other words, if a sequence (a1, a2, …, aN) is a P-sequence, then ai * ai+1 ≤ P ∀ 1 ≤ i < N
+
+You are given N and P. Your task is to find the number of such P-sequences of N integers modulo 109+7.
+
+Input Format 
+The first line of input consists of N
+The second line of the input consists of P.
+
+Constraints 
+2 ≤ N ≤ 103
+1 ≤ P ≤ 109
+1 ≤ ai
+
+Output Format
+Output the number of P-sequences of N integers modulo 109+7.
+
+Sample Input #00
+
+2
+2
+Sample Output #00
+
+3
+Explanation #00
+
+3 such sequences are {1,1},{1,2} and {2,1}
