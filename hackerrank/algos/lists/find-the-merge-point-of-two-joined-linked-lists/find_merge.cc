@@ -1,7 +1,7 @@
-Victor Guerra <vguerra@gmail.com>
-20141105
+//Victor Guerra <vguerra@gmail.com>
+//20141105
 
-https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists
+//https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists
 
 int FindMergeNode(Node *headA, Node *headB)
 {
