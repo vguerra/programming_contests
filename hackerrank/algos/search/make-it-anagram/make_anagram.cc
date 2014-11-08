@@ -9,9 +9,10 @@
 
 unsigned int count_extra_anagram(std::string s1, std::string s2) {
   std::sort(s1.begin(), s1.end());
-  std::sort(s2.begin(). s2.end())
+  std::sort(s2.begin(), s2.end());
 
   unsigned int counter = 0;
+  return counter;
 }
 
 
